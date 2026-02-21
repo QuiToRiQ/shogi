@@ -2,7 +2,7 @@
 
 A fully-featured, miniaturized Shogi/Chess variant for the RP2040 (Raspberry Pi Pico). Played on a 3x4 grid, this game features capture-and-drop mechanics, piece promotion, AI opponents, and an auto-save system—all controlled using just the Pico's built-in `BOOTSEL` button and a 128x64 OLED display.
 
-## 🌟 Features
+## 📰 Features
 
 * **3 Game Modes:** Player vs Player (PvP), Player vs Bot (PvB), and Bot vs Bot (BvB).
 * **Capture & Drop:** Captured enemy pieces are added to your inventory and can be dropped on empty squares as your turn.
