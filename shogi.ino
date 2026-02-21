@@ -35,7 +35,6 @@ struct CellItem {
     return *this;
   }
 
-
   static void swap(CellItem& First, CellItem& Second) {
     if (&First != &Second) {
       CellItem Temp = First;
